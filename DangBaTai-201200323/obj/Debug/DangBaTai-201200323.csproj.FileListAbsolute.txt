@@ -1,0 +1,12 @@
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\bin\Debug\DangBaTai-201200323.exe.config
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\bin\Debug\DangBaTai-201200323.exe
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\bin\Debug\DangBaTai-201200323.pdb
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\obj\Debug\DangBaTai-201200323.csproj.AssemblyReference.cache
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\obj\Debug\DangBaTai_201200323.Form1.resources
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\obj\Debug\DangBaTai_201200323.Properties.Resources.resources
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\obj\Debug\DangBaTai-201200323.csproj.GenerateResource.cache
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\obj\Debug\DangBaTai-201200323.csproj.CoreCompileInputs.cache
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\obj\Debug\DangBaTai-201200323.exe
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\obj\Debug\DangBaTai-201200323.pdb
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\obj\Debug\DangBaTai_201200323.HCN.resources
+D:\C#\DangBaTai-201200323\DangBaTai-201200323\obj\Debug\DangBaTai_201200323.HT.resources
